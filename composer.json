@@ -1,12 +1,12 @@
 {
-    "name": "kdubuc/GD_Resize",
+    "name": "kdubuc/gd_resize",
     "description": "PHP Class to resize images with GD.",
     "keywords": [
         "gd",
         "resize"
     ],
     "type": "library",
-    "homepage": "https://github.com/kdubuc/GD_resize",
+    "homepage": "https://github.com/kdubuc/gd_resize",
     "version": "dev-master",
     "license": "MIT",
     "authors": [
