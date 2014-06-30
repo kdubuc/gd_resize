@@ -12,7 +12,8 @@
   }],
   "require": {
     "php": ">=5.3",
-    "ext-gd": "*"
+    "ext-gd": "*",
+    "ext-exif": "*"
   },
   "autoload": {
     "psr-0": {
